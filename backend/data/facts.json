@@ -1,0 +1,23 @@
+{
+  "full_name": "Hussein Tijani",
+  "name": "Hussein",
+  "current_role": "Software Engineer",
+  "location": "Lagos, Nigeria",
+  "email": "husseintijani2017@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/tijanihussein/",
+  "medium": "https://medium.com/@DTechBroIndoor",
+  "x": "https://x.com/king_husssein",
+  "specialties": [
+    "iOS Development",
+    "Python Programming",
+    "AI Engineering"
+  ],
+  "years_experience": 6,
+  "education": [
+    {
+      "degree": "Diploma in Software Engineering",
+      "institution": "AltSchool Africa",
+      "year": "2022"
+    }
+  ]
+}
